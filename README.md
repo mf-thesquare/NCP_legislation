@@ -8,9 +8,9 @@ Non-consensual distribution or sharing of intimate or sexually explicit digital 
 
 Several countries regulated NCII violence. Links to aggregators:
 
-[The Center for Internet & Society](https://cis-india.org/internet-governance/blog/revenge-porn-laws-across-the-world)
-
 [Internet Lab](https://internetlab.org.br/en/news/how-do-countries-fight-the-non-consensual-dissemination-of-intimate-images/)
+
+[The Center for Internet & Society](https://cis-india.org/internet-governance/blog/revenge-porn-laws-across-the-world)
 
 Links to the translated legislation as reported by literature or other publishing:
 
