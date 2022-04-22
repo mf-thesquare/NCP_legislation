@@ -20,11 +20,11 @@ Links to the translated legislation as reported by literature or other publishin
 
 [Australia - South Australia](https://drive.google.com/file/d/1g_6702eToYGtse6vXWDNFoIOM1nP8pJb/view)
 
-[Canada](https://laws-lois.justice.gc.ca/eng/acts/C-46/section-162.1.html)
-
 [Belgium](https://resourcehub.bakermckenzie.com/en/resources/fighting-domestic-violence/europe/belgium/topics/1legal-provisions)
 
 [Brazil](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-11042019000800178&tlng=pt)
+
+[Canada](https://laws-lois.justice.gc.ca/eng/acts/C-46/section-162.1.html)
 
 [Croatia](http://cybercrimejournal.sascv.org/MihaSepecVol13Issue2IJCC2019.pdf)
 
