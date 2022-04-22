@@ -6,7 +6,7 @@ Non-consensual distribution or sharing of intimate or sexually explicit digital 
 
 ### International Legislation
 
-Several countries regulated NCII violence. Links to aggregators:
+Several countries regulated NCII violence. Links to research insititutes:
 
 [Internet Lab](https://internetlab.org.br/en/news/how-do-countries-fight-the-non-consensual-dissemination-of-intimate-images/)
 
